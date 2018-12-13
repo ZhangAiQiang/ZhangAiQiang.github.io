@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 欢迎来到个人博客
+      title: 没事fork的博客
 
 description: Stylish Jekyll Theme
 author:
@@ -22,9 +22,9 @@ author:
   email: 616625682@qq.com
   github: ZhangAiQiang
   twitter: 
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  pinterest: 没有
+  linkedin: 没有
+  bio: You are every single day.
   email_md5: AB97D9FB02E91A577854F15F49FE7000
 
 rss_path: feed.xml
