@@ -38,7 +38,7 @@ phpmyadmin4.8.1后台getshell
 
 ![](https://i.imgur.com/HZtEHKa.png)  
 
-不过这个再linux下面倒是很简单，不用考虑权限。
+不过这个windows下面倒是很简单，不用考虑权限。
 ### ② ###
 
 查询语句(一句话木马)，  
