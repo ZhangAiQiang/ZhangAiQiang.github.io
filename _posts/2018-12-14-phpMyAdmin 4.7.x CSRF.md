@@ -1,8 +1,8 @@
 ---
 layout: post
 title: phpMyAdmin 4.7.x CSRF
-categories: [渗透]
-tags: [渗透]
+categories: [permeate]
+tags: [permeate]
 fullview: false
 comments: true
 ---

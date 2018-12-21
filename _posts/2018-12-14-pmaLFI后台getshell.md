@@ -1,8 +1,8 @@
 ---
 layout: post
 title: phpmyadmin4.8.1后台getshell
-categories: [渗透]
-tags: [渗透]
+categories: [permeate]
+tags: [permeate]
 fullview: false
 comments: true
 ---
