@@ -15,7 +15,7 @@ comments: true
 
 flask是把session存在客户端的，而且只经过base64编码和用密钥签名，虽然没有有签名不可以伪造session，但是有很多信息我们可以直接从session解码找出来。  
 
-## ②session伪造源码  ##
+## ②session伪造源码(https://github.com/ZhangAiQiang/Flask/tree/master/flask-session%E8%BA%AB%E4%BB%BD%E4%BC%AA%E9%80%A0%E7%AE%80%E5%8D%95%E6%BA%90%E7%A0%81)  ##
 
 
 ![](https://i.imgur.com/yGUkmP0.png)    
