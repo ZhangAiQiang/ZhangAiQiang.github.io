@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SQL盲注
+title: flask-session身份伪造
 categories: [web]
 tags: [web]
 fullview: false
