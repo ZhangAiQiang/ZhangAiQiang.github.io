@@ -1,12 +1,14 @@
 ---
 layout: post
-title: flask session身份伪造
+title: SQL盲注
 categories: [web]
 tags: [web]
 fullview: false
 comments: true
 ---
 
+MOCTF的一道sql盲注题目  
+  
 想研究很久了，这次终于初步了解了flask session伪造(得知道密钥)。  
 
 参考文章:https://www.cnblogs.com/apossin/p/10083937.html  
