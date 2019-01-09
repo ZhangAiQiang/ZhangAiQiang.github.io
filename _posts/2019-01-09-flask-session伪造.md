@@ -48,7 +48,7 @@ def login():
 @app.errorhandler(404)
 def page_not_found(e):
     template='''
-        {%% block body %%}
+        {%% block body %\%} #去掉反斜杠
         <div class="center-content error">
         <h1>Oops! That page doesn't exist.</h1>
         <h3>%s</h3>
