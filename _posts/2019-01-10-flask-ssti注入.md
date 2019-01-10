@@ -18,9 +18,9 @@ comments: true
 # **XSS**   #
   
 这里直接  
->     http://39.105.116.195:9000/<script>alert("惊了，github不对xss危险字符转义")</script>就会有反射性XSS    
+>     http://39.105.116.195:9000/<script>alert(1)</script>就会有反射性XSS    
 
-<script>alert("惊了，github不对xss危险字符转义")</script>
+<script>alert("震惊")</script>
 
 flask对模板文件和模板文件中内容进行转义,可如果直接返回模板字符串或者直接返回字符串的话是不会转义的:  
 
