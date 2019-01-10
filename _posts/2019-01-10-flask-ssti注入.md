@@ -46,15 +46,14 @@ flask的一个内置全局变量，保存着一些很隐私的信息。
 
 比如SECRET_KEY，就可以session伪造用户。还有数据库连接的信息，就知道了数据库的密码。    
 
-这个是个字典，也可以这样调用某个值
-> http://39.105.116.195:9000/{{config['SECRET_KEY']}}  
+
 
 # **request** 
 类似于config，保存着一些信息。**request.environ**是一个字典，其中包含和服务器环境相关的对象  
 
 ![](https://i.imgur.com/domxsHz.png)  
 
->     http://39.105.116.195:9000/{{request.environ['werkzeug.server.shutdown']()}}这个会让服务器停止运行python，但是在gunicorn环境下中不会。  
+>     http://39.105.116.195:9000/{{ request.environ['werkzeug.server.shutdown']()}}这个会让服务器停止运行python，但是在gunicorn环境下中不会。  
 
 # **config的from_object方法** #
 
