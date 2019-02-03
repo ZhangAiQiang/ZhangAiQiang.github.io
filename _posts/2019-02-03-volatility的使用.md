@@ -1,12 +1,15 @@
 ---
 layout: post
-title: volatility取证的使用
-categories: [misc]
-tags: [misc]
+title: 成都大学CTFwp
+categories: [wp]
+tags: [wp]
 fullview: false
 comments: true
 ---
 
+记录下题解  
+  
+ 
 volatility取证的使用----windows内存  
 
 ##简介  
