@@ -7,24 +7,24 @@ highlighter: rouge
 markdown: kramdown
 disqus: AAAAAAAAA
 google_analytics: AAAAAAAAAAAAAAA
-title: 围观的白菜哥哥
+title: 鸡哥
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: 没事fork的博客
+      title: 鸡哥
 
 description: Stylish Jekyll Theme
 author:
-  name: 围观的白菜哥哥
-  email: 616625682@qq.com
-  github: ZhangAiQiang
+  name: 鸡哥
+  email: 
+  github: jige
   twitter: 
   pinterest: 没有
   linkedin: 没有
-  bio: For you，thousand times over
+  bio: Hacked by jige
   email_md5: AB97D9FB02E91A577854F15F49FE7000
 
 rss_path: feed.xml
